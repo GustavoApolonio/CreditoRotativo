@@ -1,4 +1,4 @@
-﻿CreditoRotativo
+﻿//CreditoRotativo
 
 double vlt, PM, tj, PMN, Vln, J, IOFM, IOFD, VPF, CCR;
  Console.Clear();
